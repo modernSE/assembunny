@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Code and Development environment for adventofcode.com",
   "scripts": {
-    "start": "ts-node-dev --respawn src/app.ts",
-    "test": "jest",
-    "test:watch": "jest --watchAll"
+    "start": "ts-node-dev --respawn src/app.ts"
   },
   "keywords": [
     "adventofcode",
